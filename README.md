@@ -1,0 +1,5 @@
+- 👋 Salut, je suis **@alaminedione**
+- 👀 Je m'intéresse au développement logiciel, à l'IA et aux projets open source. J'aime le développement d'applications web évolutives et l'exploration des nouvelles technologies qui façonnent l'avenir de l'informatique.
+- 🌱 J'apprends actuellement les algorithmes avancés et je me plonge davantage dans React et Node.js pour améliorer mes compétences en développement full-stack.
+- 💞️ Je cherche à collaborer sur des projets open source innovants. Je suis passionné par l'utilisation de la technologie pour résoudre des problèmes concrets et avoir un impact positif.
+- 📫 Vous pouvez m'envoyer un email à (**alaminedion@skiff.com**). Je suis toujours ouvert à discuter de nouveaux projets, d'idées ou tout simplement de geek sur les dernières tendances technologiques.
