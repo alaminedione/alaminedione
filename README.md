@@ -37,6 +37,7 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
 
 - **Systèmes d'Exploitation** :
   - Linux
+  - Windows
 
 
 ## 🤝 Collaborons !
