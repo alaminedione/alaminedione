@@ -11,8 +11,7 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
   - Typescript
   - Python
   - PHP
-  - C
-  - C++
+  - C / Cpp
     
 
 - **Frontend** :
