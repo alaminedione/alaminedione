@@ -1,9 +1,9 @@
 # Salut, je suis Alamine ! 👋
 
-## 🚀 À Propos de Moi
+## À Propos de Moi
 Je suis un développeur full stack passionné, spécialisé dans la création d'expériences utilisateur fluides et de systèmes backend robustes.
 
-## 🛠 Compétences
+## Compétences
 Voici quelques-unes des technologies avec lesquelles je travaille :
 
 - **Langages** : 
