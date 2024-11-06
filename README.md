@@ -1,7 +1,7 @@
 # Salut, je suis Alamine ! 👋
 
 ## À Propos de Moi
-Je suis un développeur full stack passionné, spécialisé dans la création d'expériences utilisateur fluides et de systèmes backend robustes.
+Je suis un développeur full stack passionné.
 
 ## Compétences
 Voici quelques-unes des technologies avec lesquelles je travaille :
@@ -9,7 +9,6 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
 - **Langages** : 
   - JavaScript / Typescript
   - Python
-  - PHP
   - C / Cpp
     
 
@@ -20,7 +19,7 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
 
 - **Backend** :
   - Node.js
-  - Laravel
+  - PHP/Laravel
 
 - **Bases de Données** :
   - MySql
@@ -29,9 +28,6 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
 - **Conception et modelisation des systemes** :
   - UML
   - Merise
-  
-- **Outils** :
-  - Qt Creator
 
 - **Systèmes d'Exploitation** :
   - Linux
@@ -39,5 +35,5 @@ Voici quelques-unes des technologies avec lesquelles je travaille :
 
 
 ## 🤝 Collaborons !
-Je suis toujours ouvert à de nouvelles opportunités et collaborations. Si vous avez un projet intéressant ou une idée, n'hésitez pas à me contacter !
+Je suis toujours ouvert à de nouvelles opportunités et collaborations. 
 
