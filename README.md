@@ -5,7 +5,6 @@
 
 Technologies Front-end / UI : <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=flat-square&logo=css3&logoColor=ffffff&labelColor=23272A)&nbsp;
@@ -26,8 +25,7 @@ Systèmes d'exploitation : <br>
 
 Langages : <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=23272A)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=23272A)&nbsp;
+![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=23272A)&nbsp;
