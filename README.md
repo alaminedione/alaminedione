@@ -24,10 +24,6 @@ Systèmes d'exploitation : <br>
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff&labelColor=23272A)&nbsp;
 
-Autres Frameworks: <br>
-
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=ffffff&labelColor=23272A)&nbsp;
-
 Langages : <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=23272A)&nbsp;
@@ -40,3 +36,7 @@ Modélisation / Conception : <br>
 
 ![UML](https://img.shields.io/badge/UML-2D9F7D?style=flat-square&logo=uml&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Merise](https://img.shields.io/badge/Merise-4F5D4F?style=flat-square&logo=merise&logoColor=ffffff&labelColor=23272A)&nbsp;
+
+Autres Frameworks: <br>
+
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=ffffff&labelColor=23272A)&nbsp;
