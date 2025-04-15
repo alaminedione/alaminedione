@@ -15,8 +15,10 @@ Back-end / Serveur : <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat-square&logo=laravel&logoColor=ffffff&labelColor=23272A)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=23272A)&nbsp;
-![NoSQL](https://img.shields.io/badge/NoSQL-4EAA25?style=flat-square&logo=database&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB335?style=flat-square&logo=spring&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Hono](https://img.shields.io/badge/Hono-B0E0E6?style=flat-square&logo=hono&logoColor=000000&labelColor=23272A)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff&labelColor=23272A)&nbsp;
 
 Systèmes d'exploitation : <br>
 
@@ -29,6 +31,9 @@ Langages : <br>
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=ffffff&labelColor=23272A)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=sql&logoColor=005a96&labelColor=23272A)&nbsp;
 
 Modélisation / Conception : <br>
 
