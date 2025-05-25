@@ -34,6 +34,14 @@ Langages : <br>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=ffffff&labelColor=23272A)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=sql&logoColor=005a96&labelColor=23272A)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff&labelColor=23272A)&nbsp;
+
+Bases de données : <br>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=23272A)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff&labelColor=23272A)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff&labelColor=23272A)&nbsp;
 
 Modélisation / Conception : <br>
 
