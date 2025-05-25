@@ -50,5 +50,5 @@ Modélisation / Conception : <br>
 
 Autres Frameworks: <br>
 
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=ffffff&labelColor=23272A)&nbsp;
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=ffffff&labelColor=23272A)&nbsp; <br>
 ...
