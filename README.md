@@ -23,7 +23,7 @@ Back-end / Serveur : <br>
 Systèmes d'exploitation : <br>
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ffffff&labelColor=23272A)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff&labelColor=23272A)&nbsp;
+
 
 Langages : <br>
 
